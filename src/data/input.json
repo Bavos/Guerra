@@ -1,0 +1,55 @@
+{
+  "title": "Plantão de Tecnologia Militar",
+  "subtitle": "Edição Especial",
+  "colors": {
+    "red": "#FF3B30",
+    "blue": "#1E3A8A",
+    "white": "#FFFFFF",
+    "gray": "#1F2937"
+  },
+  "scenes": {
+    "scene1": {
+      "label": "URGENTE",
+      "title": "IA NA GUERRA",
+      "text": "A guerra mudou",
+      "subtext": "Agora envolve algoritmos, dados e inteligência artificial.",
+      "closing": "Quem lidera… domina o futuro."
+    },
+    "scene2": {
+      "title": "Pentágono fecha acordos com Big Techs",
+      "items": ["OpenAI", "Google", "Microsoft", "Amazon", "NVIDIA", "SpaceX"]
+    },
+    "scene3": {
+      "title": "Força militar AI-first",
+      "bullets": [
+        "Decisões mais rápidas",
+        "Processamento massivo de dados",
+        "Automação estratégica"
+      ],
+      "highlight": "Velocidade = vantagem"
+    },
+    "scene4": {
+      "block1": {
+        "title": "Como a IA é usada",
+        "items": [
+          "Inteligência de dados",
+          "Simulação de guerra",
+          "Decisão em tempo real",
+          "Automação"
+        ]
+      },
+      "block2": {
+        "title": "Estratégia: Multi-vendor",
+        "items": ["Evita dependência", "Aumenta competição", "Mantém liderança"]
+      }
+    },
+    "scene5": {
+      "title": "IA virou poder global",
+      "comparison": {
+        "left": "Século XX: petróleo",
+        "right": "Século XXI: IA"
+      },
+      "closing": "Quem tem a melhor IA… lidera o mundo."
+    }
+  }
+}
