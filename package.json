@@ -4,10 +4,9 @@
   "private": true,
   "description": "Projeto Remotion + React + TypeScript para vídeo estilo portal de notícias",
   "scripts": {
-  "start": "remotion studio src/index.ts",
-  "build": "tsc --noEmit",
-  "render": "remotion render src/index.ts Video out/video-final.mp4 --props=src/data/input.json --codec=h264 --overwrite"
-  }"
+    "start": "remotion studio src/index.ts",
+    "build": "tsc --noEmit",
+    "render": "remotion render src/index.ts Video out/video-final.mp4 --props=src/data/input.json --codec=h264 --overwrite"
   },
   "dependencies": {
     "react": "18.3.1",
